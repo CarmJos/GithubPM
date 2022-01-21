@@ -24,7 +24,7 @@ Github Package Management，用于快速更新GitHub构件与发布到指定文�
 
 ## 配置文件
 
-### 插件配置文件 ([config.yml](src/main/resources/config.yml))
+### 插件配置文件 ([config.yml](src/main/resources/gh-packages.yml))
 
 详见源文件。
 
